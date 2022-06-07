@@ -12,3 +12,6 @@ if [[ ! -f $file_name ]]
 		find $file_name  -mtime -5
 fi
 ```
+![image](https://user-images.githubusercontent.com/71911447/172342941-51ceadd2-415c-4765-becf-8b49f44bf3e5.png)
+![image](https://user-images.githubusercontent.com/71911447/172342952-f4f9e27e-cace-4fb4-a66f-17a507dcb5d5.png)
+
